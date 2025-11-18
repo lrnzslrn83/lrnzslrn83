@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lrnzslrn83  
 - 👀 I’m interested in R, Python and MySQL  
-- 🌱 I’m currently learning Neo4J  
+- 🌱 I am interested in graph databases (I have worked with Neo4j)
 - 📫 How to reach me: lorenzosalerno83@gmail.com  
-- ⚡ Fun fact: The keys I use the most are Ctrl + Enter! ⌨️🚀
 
 
 <!---
